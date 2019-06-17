@@ -1,0 +1,4 @@
+We are using our slip day because the implementation of KD-tree took
+longer than expected. I wished we used office hours more and took
+advantage of asking the TAs more about the KD-tree because we were
+very lost on the wikipedia defintion
